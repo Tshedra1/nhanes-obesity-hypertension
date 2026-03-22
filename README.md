@@ -16,6 +16,11 @@ This project examines the association between obesity and hypertension using NHA
 * Age positively associated with hypertension
 * Results consistent across R and Stata
 
+##Interpretation
+* Obesity increases the likelihood of hypertension
+* Age is a strong predictor of hypertension
+* Findings align with established public health evidence
+
 ## Files
 
 * `scripts/analysis_r.R` → R analysis
